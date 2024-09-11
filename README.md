@@ -1,4 +1,4 @@
-# Work Repository For NeXTCS Fall 2024
-### Name: YOUR NAME HERE
+# Work Repository For CS Ethics 2025
+### Name: Evan Chan
 
 ---
